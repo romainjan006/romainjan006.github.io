@@ -1,0 +1,16 @@
+h1{
+	font-size: 30px;
+	text-align: center;
+	color: #51766D;
+}
+
+body{
+	font-size: 16px;
+	font-family: Helvetica, sans-serif;
+	color: #C26219;
+	background-image: url(images/y-so-serious.png);
+}
+
+ul li {
+	list-style-type: none;
+}
